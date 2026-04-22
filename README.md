@@ -1,4 +1,4 @@
 # MDM
 external pract
 <br>
-  -by panchal ds
+  -by panchal (co-ordinator)
